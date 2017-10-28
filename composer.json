@@ -1,4 +1,9 @@
 {
   "name" : "letscodehu/persistence-layer-api",
-  "version" : "1.0.0"
+  "version" : "1.0.0",
+  "autoload" : {
+    "psr-4" : {
+      "Letscodehu\\" : "src/"
+    }
+  }
 }

@@ -1,5 +1,7 @@
 <?php
 
+namespace Letscodehu;
+
 
 interface UserDao
 {
